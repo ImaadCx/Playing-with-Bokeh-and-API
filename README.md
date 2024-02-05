@@ -1,1 +1,1 @@
-To Open the ipunb file just open it in google colab ,its the easiest 
+To Open the ipynb file just open it in google colab ,its the easiest 
